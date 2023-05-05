@@ -37,3 +37,7 @@ chmod +x url_scraper automate_workflow.sh
 5. The script will generate crawljob files in the `jdownloader-watch` directory.
 
 6. Import the generated crawljob files into JDownloader to start downloading the files.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
