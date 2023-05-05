@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Include the existing url_check function
-source /4ndr0/home/andro/jdownloaderscripts/url_scraper
+source /$HOME/autojdownloader/url_scraper
 
 output_dir="/4ndr0/home/andro/jdownloader-watch/"
 
