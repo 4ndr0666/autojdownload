@@ -18,7 +18,7 @@ Install Lynx and cURL using package managers for your respective operating syste
 ## Scripts
 
 1. `url_scraper`: A script to scrape forum thread URLs and k2s.cc links.
-2. `automate_workflow.sh`: A script that calls `url_scraper` and generates JDownloader crawljob files.
+2. `crawljob.sh`: A script that calls `url_scraper` and generates JDownloader crawljob files.
 
 ## Usage
 
@@ -29,8 +29,8 @@ cd autojdownload
 2. Make sure the scripts are executable:
 chmod +x url_scraper automate_workflow.sh
 
-3. Run the `automate_workflow.sh` script:
-./automate_workflow.sh
+3. Run the `crawljob.sh` script:
+./crawljob.sh
 
 4. Follow the prompts to input the forum thread's parent URL.
 
