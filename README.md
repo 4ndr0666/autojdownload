@@ -23,27 +23,17 @@ Install Lynx and cURL using package managers for your respective operating syste
 ## Usage
 
 1. Clone the repository:
-
 git clone https://github.com/4ndr0666/autojdownload.git
 cd autojdownload
 
 2. Make sure the scripts are executable:
-
 chmod +x url_scraper automate_workflow.sh
 
-
 3. Run the `automate_workflow.sh` script:
-
 ./automate_workflow.sh
-
 
 4. Follow the prompts to input the forum thread's parent URL.
 
 5. The script will generate crawljob files in the `jdownloader-watch` directory.
 
 6. Import the generated crawljob files into JDownloader to start downloading the files.
-
-
-
-
-
